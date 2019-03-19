@@ -13,7 +13,7 @@ const App = () => {
       <div className="zero-display">
         <CalculatorDisplay text='0' />
       </div>
-      <div class="row">
+      <div className="row">
         <ActionButton buttonStyle="clear" text="clear" />
         <ActionButton buttonStyle="action" text="÷" />
       </div>
