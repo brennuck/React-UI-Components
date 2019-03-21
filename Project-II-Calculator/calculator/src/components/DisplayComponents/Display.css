@@ -1,0 +1,10 @@
+.display {
+    background: black;
+    height: 100px;
+    padding: 20px 20px 0 20px;
+    font-size: 70px;
+    text-align: end;
+    color: white;
+    font-weight: 80;
+    border: solid 1px grey;
+}

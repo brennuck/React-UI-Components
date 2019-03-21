@@ -1,1 +1,25 @@
-/* All styles for your header Components live here */
+.header-container {
+    display: flex;
+    padding: 2px;
+}
+.logo {
+    width: 14%;
+    height: 100%;
+    padding: 5px;
+    margin: 1px;
+    padding-bottom: 15px;
+}
+.header-title-container {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    font-size: 12.5px;
+}
+.header-title-container p {
+    margin-left: 20px;
+    color: lightgrey;
+}
+.headPara {
+    margin: 0;
+    font-size: 15px;
+}
